@@ -30,4 +30,4 @@ collections:
 gems:
  - jekyll-paginate
 
-theme: jekyll-theme-slate
+theme: jekyll-theme-modernist
