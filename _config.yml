@@ -1,14 +1,14 @@
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 permalink: /posts/:title.html
 excerpt_separator: "<!-- more -->"
 
-github: panxw
-author: "潘学文"
-email: winfirm#163.com
-name: "潘学文个人博客"
-url: http://www.panxw.com
-domain: www.panxw.com
+github: qinxiao1990
+author: "秦箫"
+email: qinxiao1990@gmail.com
+name: "秦箫的博客"
+url: http://qinxiao1990.github.io
+domain: http://qinxiao1990.github.io
 all_categories: [
 ["android", "Android开发","/posts/android.html"], 
 ["program", "软件编程","/posts/program.html"],
@@ -27,5 +27,4 @@ collections:
   docs:
     output: true
 
-gems:
- - jekyll-paginate
+gems: [jekyll-paginate]
